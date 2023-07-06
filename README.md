@@ -23,8 +23,8 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/SalahEddineMj/Frontend-Mentor-chat-app-css-illustration-master)
+- Live Site URL: (https://salaheddinemj.github.io/Frontend-Mentor-chat-app-css-illustration-master/)
 
 ## My process
 
